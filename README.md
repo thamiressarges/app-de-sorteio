@@ -1,5 +1,7 @@
 # 🎲 App de Sorteio
 
+![Tela principal do app](./images/app_de_sorteio.png)
+
 Este é um aplicativo simples que realiza o sorteio de números aleatórios entre 0 e 10 com apenas um clique. Desenvolvido com **Kotlin** no **Android Studio**, é uma ótima introdução ao desenvolvimento Android para iniciantes.
 
 ---
@@ -18,15 +20,7 @@ Este é um aplicativo simples que realiza o sorteio de números aleatórios entr
 
 > Substitua pelos seus screenshots reais:
 
-![Tela principal do app](./images/visualize_a_experiência_sorteio)
-
----
-
-## 🎥 Vídeo demonstrativo
-
-> Substitua pela URL do seu vídeo:
-
-[![Assista ao vídeo do app](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+![Tela principal do app](./images/visualize_a_experiência_sorteio.png)
 
 ---
 
@@ -36,15 +30,6 @@ Este projeto foi apresentado utilizando o template gratuito:
 
 🔗 [Creta – Slidecore Templates](https://slidecoretemplates.com/pt-pt/producto/creta-modelo-de-apresentacao-de-aplicativo-gratuito/#google_vignette)
 
----
-
-## 💻 Código-fonte
-
-Acesse o repositório completo:
-
-[👉 github.com/thamiressarges/appdesorteio](https://github.com/thamiressarges/appdesorteio)
-
----
 
 ## 📚 Sobre o Projeto
 
